@@ -7,3 +7,6 @@ Practic ce am modificat la acest fisier a fost sa ma joc cu diferite fonturi.
 ``` javascript
 var= myVar="Imi plac aceste tutoriale!"
 ```
+- [ ] Sa plimb catelu
+- [ ] Sa fac tema
+- [ ] Sa invat pentru test
